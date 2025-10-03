@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     color: rgb(20, 20, 20);
     background-color: antiquewhite;
+    margin: 0;
 }
 
 h1 {
@@ -17,6 +18,11 @@ p {
 }
 
 .container {
-    max-width: 80%;
-    margin: auto;
+    max-width: 1200px; 
+    margin: 0 auto;    
+    padding: 0 1rem;   
+}
+
+#video {
+    margin: 0;
 }
